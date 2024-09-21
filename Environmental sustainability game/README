@@ -1,1 +1,5 @@
-Processing based game that implements an array of sound and image files
+Processing based game that implements an array of sound and image files.
+The images of rubbish are randomely spawned across the screen allowing users to sort items into correct bins (compost, recycling, or general waste).
+Game difficulty and score counters that increase or decrease based on correct or incorrect sorting.
+Implemented collision detection for dragging and dropping items.
+Integrated background music and game-over triggers to enhance user experience.
